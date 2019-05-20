@@ -1,11 +1,12 @@
-# Título del trabajo
+#BANNER
+Este programa permite al usuario introducir un texto y mostrarlo en forma de banner.
 
-Descripción breve del proyecto a realizar (2-3 frases).
-
-## Integrantes del equipo
-
-Carlos Montejano Garrido (@cmontejano)
-
-## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+##1. Menú del programa
+Cuando ejecutamos el programa nos encontraremos con el menú principal. Pulsando cada opción accederemos a las diferentes funcionalidades. A continuación las opciones del menú:
+1. Diseñar tipografía
+2. Almacenar tipografía en disco
+3. Cargar tipográfia desde disco
+4. Importar tipografía
+5. Exportar tipografía
+6. Mostrar banner
+7. Salir
